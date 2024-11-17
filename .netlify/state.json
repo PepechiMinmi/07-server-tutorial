@@ -1,0 +1,20 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Arakawa",
+			"country": {
+				"code": "JP",
+				"name": "Japan"
+			},
+			"subdivision": {
+				"code": "13",
+				"name": "Tokyo"
+			},
+			"timezone": "Asia/Tokyo",
+			"latitude": 35.754,
+			"longitude": 139.7803,
+			"postalCode": "116-0001"
+		},
+		"timestamp": 1731847506713
+	}
+}
